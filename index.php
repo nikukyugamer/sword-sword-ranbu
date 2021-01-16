@@ -62,6 +62,10 @@ $token = $_SESSION['token'];
 
 <!-- :::::::::::::::::::: メイン :::::::::::::::::::: -->
 <div id="main">
+<p style="font-size: 18px;">
+※ウェブサイトを https://sword-sword.potch.jp/ へと移転いたしました。ブックマーク等の変更がありましたらお願いいたします。移転元のサイトは2月末で閉鎖予定です。
+</p>
+
 <p style="font-size: 13px;">
 「<a href="http://www.dmm.com/netgame_s/tohken/" target="_blank">刀剣乱舞</a>」の画面キャプチャー（スクショ/スクリーンショットを撮影する）ツール、「<em>とうらぶキャプ</em>」を配布しています。
 </p>
