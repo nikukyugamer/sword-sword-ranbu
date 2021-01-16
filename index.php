@@ -20,11 +20,11 @@ $token = $_SESSION['token'];
   <link rel="stylesheet" href="style.css" type="text/css">
   <meta content="刀剣乱舞用 スクショ支援ツール 配布ページ" property="og:title"/>
   <meta content="website" property="og:type"/>
-  <meta content="https://corselia.sakura.ne.jp/TouLoveCap/" property="og:url"/>
-  <meta content="https://corselia.sakura.ne.jp/TouLoveCap/dsc_08428_600.jpg" property="og:image"/>
+  <meta content="https://sword-sword.potch.jp/" property="og:url"/>
+  <meta content="https://sword-sword.potch.jp/dsc_08428_600.jpg" property="og:image"/>
   <meta content="summary_large_image" name="twitter:card"/>
-  <meta content="https://corselia.sakura.ne.jp/TouLoveCap/" name="twitter:site"/>
-  <meta content="https://corselia.sakura.ne.jp/TouLoveCap/dsc_08428_600.jpg" name="twitter:image"/>
+  <meta content="https://sword-sword.potch.jp/" name="twitter:site"/>
+  <meta content="https://sword-sword.potch.jp/dsc_08428_600.jpg" name="twitter:image"/>
   <meta content="刀剣乱舞用 スクショ支援ツール 配布ページ" name="twitter:title"/>
   <meta content="Windows用の刀剣乱舞スクショ支援ツールを配布しているページです。" name="twitter:description"/>
 </head>
@@ -385,27 +385,6 @@ ChromeとFirefoxで、「常に手前に表示」の機能が撮影後に無効�
 <address>-<a href="http://sky.starlit.biz/" target="_blank">Template by Starlit</a>-</address>
 </div>
 <!-- :::::::::::::::::::: フッター以上 :::::::::::::::::::: -->
-
-<!-- analytics.php START -->
-<script type="text/javascript" src="http://www.harmonia.country/analytics.php"></script>
-<!-- analytics.php END -->
-<!-- Google Analytics START -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-49421871-3', 'auto');
-
-  ga('set', 'dimension1', setAnalytics.getIP());
-  ga('set', 'dimension2', setAnalytics.getCookie());
-  ga('set', 'dimension3', setAnalytics.getAccessTime());
-
-  ga('send', 'pageview');
-
-</script>
-<!-- Google Analytics END -->
 
 </body>
 </html>
