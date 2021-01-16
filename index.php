@@ -112,7 +112,8 @@ $comment = isset($_SESSION['comment']) ? $_SESSION['comment'] : '';
           maxlength="10000" placeholder="メッセージの内容をお書き下さい" required style="background-color:#cecece"><?php echo h($comment); ?></textarea></dd>
     </dl>
     <input type="hidden" name="token" value="<?php echo h($token); ?>">
-    <input style="border-style: ridge; padding: 5px; margin: 5px 0px 0px 0px;" type="submit" name="submit" value="送信前の入力内容のチェックへ">
+    現在フォーム休止中です。しばらくお待ち下さい……。
+    <!-- input style="border-style: ridge; padding: 5px; margin: 5px 0px 0px 0px;" type="submit" name="submit" value="送信前の入力内容のチェックへ" -->
   </form>
 </ul>
 <p></p>
