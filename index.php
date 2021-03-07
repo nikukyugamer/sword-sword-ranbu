@@ -59,11 +59,13 @@ $token = $_SESSION['token'];
 </div>
 <!-- :::::::::::::::::::: ヘッダー以上 :::::::::::::::::::: -->
 
+フォームを設置しました（「フォームズ」のサービスを利用しています）
+https://ws.formzu.net/dist/S4145913/
 
 <!-- :::::::::::::::::::: メイン :::::::::::::::::::: -->
 <div id="main">
 <p style="font-size: 18px;">
-※ウェブサイトを https://sword-sword.potch.jp/ へと移転いたしました。ブックマーク等の変更がありましたらお願いいたします。移転元のサイトは2月末で閉鎖予定です。
+※ウェブサイトを https://sword-sword.potch.jp/ へと移転いたしました。ブックマーク等の変更がありましたらお願いいたします。移転元のサイトは3月末で閉鎖予定です。
 </p>
 
 <p style="font-size: 13px;">
@@ -89,18 +91,8 @@ $token = $_SESSION['token'];
 
 <a name="message_form"></a>
 <div class="h3"><h3><strong>メッセージ送信フォーム</strong></h3></div>
-<?php
-// エラーがあったら表示
-if (isset($_SESSION['error'])) {
-  foreach ($_SESSION['error'] as $value) {
-    echo '<span style="color:red;">' . h($value) . '</span><br>' . "\n";
-  }
-}
-
-// 三項演算子を使用してセッションに保存されたデータを変数に代入
-$comment = isset($_SESSION['comment']) ? $_SESSION['comment'] : '';
-?>
 <ul class="message_form_attention">
+<li>・メッセージ送信フォームを <a href="https://ws.formzu.net/fgen/S4145913/" target="_blank">こちら</a>に用意しました（「フォームズ」を利用しています）。</li>
 <li>・不具合報告、ご要望、叱咤激励、雑談、などなど、何でもどうぞ。できる限り対応いたします。</li>
 <li>・まだ領域認識の不具合が残っているようです。修正をしたいと思いますのでご報告をお願い致します。</li>
 <li>・ご報告の際には不具合内容とともに次の項目があるとありがたいです（必須ではありません）。</li>
@@ -108,21 +100,16 @@ $comment = isset($_SESSION['comment']) ? $_SESSION['comment'] : '';
 <!--
 <li>・「不具合発生時のデスクトップ全体のスクリーンショット」につきましては<a href="http://www.harmonia.country/SnUploaderCandy/" target="_blank">アップローダーを設置しました</a>のでご活用下さい。</li>
 -->
-<p></p>
-  <form action="mailform_confirm.php" method="post">
-    <dl>
-      <dt><label for="comment" style="font-weight: bold;">メッセージ内容</label></dt>
-      <dd><textarea rows="6" cols="80" id="comment" name="comment"
-          maxlength="10000" placeholder="メッセージの内容をお書き下さい" required style="background-color:#cecece"><?php echo h($comment); ?></textarea></dd>
-    </dl>
-    <input type="hidden" name="token" value="<?php echo h($token); ?>">
-    現在フォーム休止中です。しばらくお待ち下さい……。
-    <!-- input style="border-style: ridge; padding: 5px; margin: 5px 0px 0px 0px;" type="submit" name="submit" value="送信前の入力内容のチェックへ" -->
-  </form>
 </ul>
 <p></p>
 
 <p>――――――――――</p>
+
+<p>
+<span style="font-weight: bold;">[2021/03/07]</span>
+<br>
+        ブラウザの拡張機能で作り直そう（リニューアルしよう）と調査をしていたのですが、ゲーム画面の表示方法の関係上、やはり Windows 専用のアプリケーションとして作るしか無いようです。技術的な調査をもう少し続けます。
+</p>
 
 <p>
 <span style="font-weight: bold;">[2020/12/06]</span>
