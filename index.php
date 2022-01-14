@@ -64,10 +64,6 @@ https://ws.formzu.net/dist/S4145913/
 
 <!-- :::::::::::::::::::: メイン :::::::::::::::::::: -->
 <div id="main">
-<p style="font-size: 18px;">
-※ウェブサイトを https://sword-sword.potch.jp/ へと移転いたしました。ブックマーク等の変更がありましたらお願いいたします。移転元のサイトは3月末で閉鎖予定です。
-</p>
-
 <p style="font-size: 13px;">
 「<a href="http://www.dmm.com/netgame_s/tohken/" target="_blank">刀剣乱舞</a>」の画面キャプチャー（スクショ/スクリーンショットを撮影する）ツール、「<em>とうらぶキャプ</em>」を配布しています。
 </p>
@@ -104,6 +100,12 @@ https://ws.formzu.net/dist/S4145913/
 <p></p>
 
 <p>――――――――――</p>
+
+<p>
+<span style="font-weight: bold;">[2022/01/14]</span>
+<br>
+        7周年おめでとうございます。また、頂いた内容（すべて読んでおります）や更新が滞っており申し訳ございません。
+</p>
 
 <p>
 <span style="font-weight: bold;">[2021/03/07]</span>
