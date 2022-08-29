@@ -102,6 +102,12 @@ https://ws.formzu.net/dist/S4145913/
 <p>――――――――――</p>
 
 <p>
+<span style="font-weight: bold;">[2022/08/29]</span>
+<br>
+        不具合のご報告ありがとうございます。なるはやで修正いたします。
+</p>
+
+<p>
 <span style="font-weight: bold;">[2022/01/14]</span>
 <br>
         7周年おめでとうございます。また、頂いた内容（すべて読んでおります）や更新が滞っており申し訳ございません。
