@@ -59,8 +59,8 @@ $token = $_SESSION['token'];
 </div>
 <!-- :::::::::::::::::::: ヘッダー以上 :::::::::::::::::::: -->
 
-フォームを設置しました（「フォームズ」のサービスを利用しています）
-https://ws.formzu.net/dist/S4145913/
+<!-- フォームを設置しました（「フォームズ」のサービスを利用しています） -->
+<!-- https://ws.formzu.net/dist/S4145913/ -->
 
 <!-- :::::::::::::::::::: メイン :::::::::::::::::::: -->
 <div id="main">
@@ -72,7 +72,7 @@ https://ws.formzu.net/dist/S4145913/
 <div class="h3"><h3><strong>ダウンロード</strong></h3></div>
 <ul class="download">
 <li>
-<a href="./TouLoveCap_Ver_2_1_0.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_2_1_0.zip');">最新版ダウンロード</a> / Version 2.1.0 (2019/08/29)
+<a href="./TouLoveCap_Ver_2_1_1.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_2_1_1.zip');">最新版ダウンロード</a> / Version 2.1.1 (2022/09/07)
 </li>
 </ul>
 <p></p>
@@ -100,6 +100,12 @@ https://ws.formzu.net/dist/S4145913/
 <p></p>
 
 <p>――――――――――</p>
+
+<p>
+<span style="font-weight: bold;">[2022/09/07]</span>
+<br>
+        Version 2.1.1 をリリースしました。2022/08/29 のメンテ以降にウィンドウが見つからなくなる不具合を修正しました。ご不便をおかけして申し訳ありませんでした。
+</p>
 
 <p>
 <span style="font-weight: bold;">[2022/08/29]</span>
