@@ -72,7 +72,7 @@ $token = $_SESSION['token'];
 <div class="h3"><h3><strong>ダウンロード</strong></h3></div>
 <ul class="download">
 <li>
-<a href="./TouLoveCap_Ver_2_1_1.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_2_1_1.zip');">最新版ダウンロード</a> / Version 2.1.1 (2022/09/07)
+<a href="./TouLoveCap_Ver_2_1_2.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_2_1_2.zip');">最新版ダウンロード</a> / Version 2.1.2 (2022/09/11)
 </li>
 </ul>
 <p></p>
@@ -100,6 +100,22 @@ $token = $_SESSION['token'];
 <p></p>
 
 <p>――――――――――</p>
+
+<p>
+<span style="font-weight: bold;">[2022/09/11]</span>
+<br>
+        Version 2.1.2 をリリースしました。
+<br>
+        ・Firefox でキャプチャできない不具合を修正しました
+<br>
+        ・メニューの「情報」→「とうらぶきゃぷ配布ページへ」で飛ぶことができるURLを最新のURLに変更しました。
+<br><br>
+        「白い斑点」について JPEG画像 をご提供いただきました。PNG特有の問題ではなく、キャプチャ時の問題であることがわかりました。一歩前進です。
+<br><br>
+        また、デスクトップの拡大率が 100% 以外でもキャプチャできるようにする方法を検証しています。DPI を取得できればいいところ、7年前の開発環境の下では DPI の取得が難しい状況です。当時は拡大している人はあまりいなかったし、マルチモニタもそこまで普及していなかったはずで、スマートに取得している例が見つかりません。
+<br><br>
+        モダンな開発環境に一新したいところではありますが、地味な移行作業を結構なボリュームでやる必要があり、継続できるかどうかの懸念があります。しばらく触らないで久々に触るという場合には内容を綺麗さっぱり忘れてしまっており、作業のスイッチングコストが大変に高いため、やるのだとしたら一気にやりたいのです。
+</p>
 
 <p>
 <span style="font-weight: bold;">[2022/09/08]</span>
