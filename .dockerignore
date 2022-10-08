@@ -1,0 +1,6 @@
+composer.phar
+/vendor/
+
+.circleci/
+.github/
+.history/
