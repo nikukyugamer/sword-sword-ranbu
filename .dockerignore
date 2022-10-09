@@ -4,3 +4,7 @@ composer.phar
 .circleci/
 .github/
 .history/
+
+renovate.json
+SECURITY.md
+README.md
