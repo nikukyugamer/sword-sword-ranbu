@@ -4,6 +4,7 @@ composer.phar
 .circleci/
 .github/
 .history/
+tmp/
 
 renovate.json
 SECURITY.md
