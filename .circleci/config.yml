@@ -4,7 +4,7 @@ orbs:
   php: circleci/php@1.1.0
 
 jobs:
-  hosting_website:
+  check_index_php:
     docker:
       - image: cimg/base:edge
     steps:
@@ -29,4 +29,4 @@ jobs:
 workflows:
   main_workflow:
     jobs:
-      - hosting_website
+      - check_index_php
