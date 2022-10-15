@@ -16,6 +16,15 @@ $token = $_SESSION['token'];
   <meta http-equiv="Content-Style-Type" content="text/css">
   <!-- designed by starlit * http://sky.starlit.biz/ 2011/p003 //-->
   <title>刀剣乱舞用 スクショ支援ツール とうらぶキャプ 配布ページ</title>
+
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5XKBTLP');</script>
+  <!-- End Google Tag Manager -->
+
   <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.ico">
   <link rel="stylesheet" href="style.css" type="text/css">
   <meta content="刀剣乱舞用 スクショ支援ツール 配布ページ" property="og:title"/>
@@ -29,6 +38,11 @@ $token = $_SESSION['token'];
   <meta content="Windows用の刀剣乱舞スクショ支援ツールを配布しているページです。" name="twitter:description"/>
 </head>
 <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5XKBTLP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 <!-- :::::::::::::::::::: ヘッダー :::::::::::::::::::: -->
 <div id="header">
 <!-- ********** タイトル部分↓ ********** -->
