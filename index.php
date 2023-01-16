@@ -73,9 +73,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 <!-- :::::::::::::::::::: ヘッダー以上 :::::::::::::::::::: -->
 
-<!-- フォームを設置しました（「フォームズ」のサービスを利用しています） -->
-<!-- https://ws.formzu.net/dist/S4145913/ -->
-
 <!-- :::::::::::::::::::: メイン :::::::::::::::::::: -->
 <div id="main">
 <p style="font-size: 13px;">
@@ -107,13 +104,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li>・まだ領域認識の不具合が残っているようです。修正をしたいと思いますのでご報告をお願い致します。</li>
 <li>・ご報告の際には不具合内容とともに次の項目があるとありがたいです（必須ではありません）。</li>
 <li>→「ソフトのバージョン」「Webブラウザの名前とバージョン」「OSのバージョン」「エラーメッセージ（あれば）」</li>
-<!--
-<li>・「不具合発生時のデスクトップ全体のスクリーンショット」につきましては<a href="http://www.harmonia.country/SnUploaderCandy/" target="_blank">アップローダーを設置しました</a>のでご活用下さい。</li>
--->
 </ul>
 <p></p>
 
 <p>――――――――――</p>
+
+<p>
+<span style="font-weight: bold;">[2023/01/16]</span>
+<br>
+8周年おめでとうございます。
+<br>
+昨年にも増して今年は時間を確保するのが難しそうですが、それを言い訳にはしたくないので、少しずつでも更新していきたいと思います。
+</p>
 
 <p>
 <span style="font-weight: bold;">[2022/09/11]</span>
