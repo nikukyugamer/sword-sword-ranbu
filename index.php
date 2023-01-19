@@ -110,6 +110,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>――――――――――</p>
 
 <p>
+<span style="font-weight: bold;">[2023/01/19]</span>
+<br>
+「撮影領域（ｙ）が正しく取得できませんでした。」のエラーが出てしまうというメッセージを頂きました。
+<br>
+手元で試してみたところ再現せず、現在のところ原因が分かっておりません。
+<br>
+同様の現象が起きている方がおられましたら、ご報告いただけると幸いです。
+</p>
+
+<p>
 <span style="font-weight: bold;">[2023/01/16]</span>
 <br>
 8周年おめでとうございます。
