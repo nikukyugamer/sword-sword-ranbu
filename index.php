@@ -12,7 +12,7 @@ $token = $_SESSION['token'];
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="ja">
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta http-equiv="Content-Style-Type" content="text/css">
   <!-- designed by starlit * http://sky.starlit.biz/ 2011/p003 //-->
   <title>刀剣乱舞用 スクショ支援ツール とうらぶキャプ 配布ページ</title>
@@ -82,9 +82,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a name="download"></a>
 <div class="h3"><h3><strong>ダウンロード</strong></h3></div>
 <ul class="download">
-<li>
-<a href="./TouLoveCap_Ver_2_1_2.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_2_1_2.zip');">最新版ダウンロード</a> / Version 2.1.2 (2022/09/11)
-</li>
+  <li>
+    <a href="./TouLoveCap_Ver_3_0_0.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_3_0_0.zip');">最新版ダウンロード</a> / Version 3.0.0 (2023/01/24)
+  </li>
+  <li>
+    <a href="./TouLoveCap_Ver_2_1_2.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_2_1_2.zip');">旧版ダウンロード</a> / Version 2.1.2 (2022/09/11)
+  </li>
 </ul>
 <p></p>
 
@@ -99,15 +102,48 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a name="message_form"></a>
 <div class="h3"><h3><strong>メッセージ送信フォーム</strong></h3></div>
 <ul class="message_form_attention">
-<li>・メッセージ送信フォームを <a href="https://ws.formzu.net/fgen/S4145913/" target="_blank">こちら</a>に用意しました（「フォームズ」を利用しています）。</li>
-<li>・不具合報告、ご要望、叱咤激励、雑談、などなど、何でもどうぞ。できる限り対応いたします。</li>
-<li>・まだ領域認識の不具合が残っているようです。修正をしたいと思いますのでご報告をお願い致します。</li>
-<li>・ご報告の際には不具合内容とともに次の項目があるとありがたいです（必須ではありません）。</li>
-<li>→「ソフトのバージョン」「Webブラウザの名前とバージョン」「OSのバージョン」「エラーメッセージ（あれば）」</li>
+  <li>・メッセージ送信フォームを <a href="https://ws.formzu.net/fgen/S4145913/" target="_blank">こちら</a> に用意しました（「<a href="https://www.formzu.com/" target="_blank">フォームズ</a>」を利用しています）。</li>
+  <li>・不具合報告、ご要望、叱咤激励、雑談、などなど、何でもどうぞ。できる限り対応いたします。</li>
+  <li>・まだ領域認識の不具合が残っているようです。修正をしたいと思いますのでご報告をお願い致します。</li>
+  <li>・ご報告の際には不具合内容とともに次の項目があるとありがたいです（必須ではありません）。</li>
+  <li>→「ソフトのバージョン」「Webブラウザの名前とバージョン」「OSのバージョン」「エラーメッセージ（あれば）」</li>
 </ul>
 <p></p>
 
 <p>――――――――――</p>
+
+<div>
+<span style="font-weight: bold;">[2023/01/24]</span>
+<br>
+Version 3.0.0 をリリースしました。変更点などは以下のとおりです。
+<br><br>
+<ul>
+  <li>・「ディスプレイ拡大率」の 125% および 150 % に対応した（「初期設定」より）</li>
+  <li>・フォームのレイアウトを修正した（行間隔など）</li>
+  <li>・フォーム内のテキストを修正した（「Copyrightを入れる」→「Copyrightを含める」など）</li>
+  <li>・「審神者の名前などを隠す」機能を復活させた</li>
+  <li>・「Special Thanks」の内容を更新した</li>
+  <li>・ドキュメントを更新した（詳細機能の説明は現状に即していないのでいったん削除）</li>
+  <li>・IE 関連のコードを削除した</li>
+  <li>・メモリリークが起きる可能性のある箇所を修正した</li>
+  <li>・すべてのブラウザで同じである処理を共通化して保守性を高めた</li>
+  <li>・内部処理を分割し、保守性を高めた</li>
+  <li>・状態管理の方法を見直し、保守性を高めた</li>
+  <li>・変数の命名を変更して保守性を高めた</li>
+  <li>・エラー時のデバッグ情報を詳しく出力するようにした（が、コピペできないので不便）</li>
+</ul>
+<br>
+需要がありそう（自分がほしい）なのでやりたいこととしては、以下のとおりです。
+<ul>
+  <li>・マルチモニタ対応（今はプライマリディスプレイに表示されていないとだめ）</li>
+  <li>・画像の保存フォルダをメニューから一発で開けるようにする</li>
+</ul>
+<br>
+かなり大胆に変更したので、不具合が起きるかもしれません。旧版へのリンクは残してあるので、問題があるようでしたらそちらをご利用下さい。
+<br>
+</div>
+
+<br>
 
 <p>
 <span style="font-weight: bold;">[2023/01/19]</span>
