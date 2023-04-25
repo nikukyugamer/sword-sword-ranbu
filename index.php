@@ -83,7 +83,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="h3"><h3><strong>ダウンロード</strong></h3></div>
 <ul class="download">
   <li>
-    <a href="./TouLoveCap_Ver_3_0_0.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_3_0_0.zip');">最新版ダウンロード</a> / Version 3.0.0 (2023/01/24)
+    <a href="./TouLoveCap_Ver_3_0_1.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_3_0_1.zip');">最新版ダウンロード</a> / Version 3.0.1 (2023/04/25)
   </li>
   <li>
     <a href="./TouLoveCap_Ver_2_1_2.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_2_1_2.zip');">旧版ダウンロード</a> / Version 2.1.2 (2022/09/11)
@@ -111,6 +111,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p></p>
 
 <p>――――――――――</p>
+
+<div>
+  <span style="font-weight: bold;">[2023/04/25]</span>
+  <br>
+  Version 3.0.1 をリリースしました。変更点などは以下のとおりです。
+  <br><br>
+  <ul>
+    <li>・「本丸システムバージョンアップ第二段階」によるスクリーンサイズ変更に対応</li>
+    <li>・「本丸システムバージョンアップ第二段階」によりこれまでの戦績画面が廃止されたので「審神者を隠す」からチェックボックスを削除</li>
+  </ul>
+</div>
+
+<br>
 
 <div>
   <span style="font-weight: bold;">[2023/04/04]</span>
