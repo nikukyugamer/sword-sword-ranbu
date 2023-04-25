@@ -115,7 +115,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div>
   <span style="font-weight: bold;">[2023/04/25]</span>
   <br>
-  Version 3.0.1 をリリースしました。変更点などは以下のとおりです。
+  ご報告ありがとうございます。Version 3.0.1 をリリースしました。変更点などは以下のとおりです。
   <br><br>
   <ul>
     <li>・「本丸システムバージョンアップ第二段階」によるスクリーンサイズ変更に対応</li>
