@@ -83,10 +83,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="h3"><h3><strong>ダウンロード</strong></h3></div>
 <ul class="download">
   <li>
-    <a href="./TouLoveCap_Ver_3_0_1.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_3_0_1.zip');">最新版ダウンロード</a> / Version 3.0.1 (2023/04/25)
-  </li>
-  <li>
-    <a href="./TouLoveCap_Ver_2_1_2.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_2_1_2.zip');">旧版ダウンロード</a> / Version 2.1.2 (2022/09/11)
+    <a href="./TouLoveCap_Ver_3_0_2.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_3_0_2.zip');">最新版ダウンロード</a> / Version 3.0.2 (2023/04/26)
   </li>
 </ul>
 <p></p>
@@ -111,6 +108,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p></p>
 
 <p>――――――――――</p>
+
+<div>
+  <span style="font-weight: bold;">[2023/04/26]</span>
+  <br>
+  Version 3.0.2 をリリースしました。ご報告いただいた以下の不具合を修正しました。"2023/01/19" の不具合もこれで直っていると思います。
+  <br>
+  走査範囲を広げすぎると速度低下につながるため加減が難しいのですが、ひとまずは問題がないであろう最低限の範囲まで広げました。
+  <br><br>
+  <ul>
+    <li>・4Kモニタなどスクリーンが大きい際にキャプチャ領域が正常に認識できない不具合を修正した</li>
+  </ul>
+</div>
+
+<br>
 
 <div>
   <span style="font-weight: bold;">[2023/04/25]</span>
@@ -169,7 +180,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <li>・画像の保存フォルダをメニューから一発で開けるようにする</li>
   </ul>
   <br>
-  かなり大胆に変更したので、不具合が起きるかもしれません。旧版へのリンクは残してあるので、問題があるようでしたらそちらをご利用下さい。
+  かなり大胆に変更したので、不具合が起きるかもしれません。問題が起きるようでしたらご報告をお願いします。
   <br>
 </div>
 
