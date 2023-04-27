@@ -83,7 +83,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="h3"><h3><strong>ダウンロード</strong></h3></div>
 <ul class="download">
   <li>
-    <a href="./TouLoveCap_Ver_3_0_2.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_3_0_2.zip');">最新版ダウンロード</a> / Version 3.0.2 (2023/04/26)
+    <a href="./TouLoveCap_Ver_3_0_3.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_3_0_3.zip');">最新版ダウンロード</a> / Version 3.0.3 (2023/04/28)
+  </li>
+  <li>
+    <a href="./TouLoveCap_Ver_3_0_2.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_3_0_2.zip');">v3.0.2 ダウンロード</a> / Version 3.0.2 (2023/04/26)
+  </li>
+  <li>
+    <a href="./TouLoveCap_Ver_3_0_1.zip" onclick="ga('send','pageview','/TouLoveCap/TouLoveCap_Ver_3_0_1.zip');">v3.0.1 ダウンロード</a> / Version 3.0.1 (2023/04/25)
   </li>
 </ul>
 <p></p>
@@ -108,6 +114,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p></p>
 
 <p>――――――――――</p>
+
+<div>
+  <span style="font-weight: bold;">[2023/04/28]</span>
+  <br>
+  Version 3.0.3 をリリースしました。ご報告いただいた現象に対し、以下のように修正を行いました。
+  <br><br>
+  <ul>
+    <li>・刀剣乱舞のゲーム画面表示領域よりもモニタサイズが小さい場合には警告を出すようにし、アプリケーションがエラーで終了しないようにした</li>
+  </ul>
+  <br>
+  モニタを変更した後に動作しなくなってしまった場合は「拡大率」の設定を見直してみてください。また、「Webブラウザの」拡大率の変更には現状では対応していませんのでご了承ください。
+</div>
+
+<br>
 
 <div>
   <span style="font-weight: bold;">[2023/04/26]</span>
