@@ -116,6 +116,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>――――――――――</p>
 
 <div>
+  <span style="font-weight: bold;">[2023/06/20]</span>
+  <br>
+  画面表示領域とモニタ（解像度）の大きさによってはエラーが分かりにくい場合があります。領域判定のアルゴリズムが絶妙に回避されてしまう場合もあるので、もし挙動は変だと感じた場合には、ウィンドウサイズや表示領域を変えて試してみてください。その際には、設定にいつでも戻せるように注意して行ってください。
+</div>
+
+<br>
+
+<div>
   <span style="font-weight: bold;">[2023/04/28]</span>
   <br>
   Version 3.0.3 をリリースしました。ご報告いただいた現象に対し、以下のように修正を行いました。
