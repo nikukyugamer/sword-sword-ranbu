@@ -118,7 +118,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div>
   <span style="font-weight: bold;">[2023/07/01]</span>
   <br>
-  早いもので今年も半年が終わってしまいました。
+  早いもので今年も半分が終わってしまいました。
   <br><br>
   正しく撮影できなかった場合の「デバッグ情報」の中に "browserStartX x browserStartY: ? x ?" という行があります。この行はその名の通り、Webブラウザが画面のどの場所（座標）にあるかを示しています。
   <br><br>
