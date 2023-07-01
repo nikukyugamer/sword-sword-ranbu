@@ -123,7 +123,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   正しく撮影できなかった場合の「デバッグ情報」の中に "browserStartX x browserStartY: ? x ?" という行があります。この行はその名の通り、Webブラウザが画面のどの場所（座標）にあるかを示しています。
   <br><br>
   本ソフトの性質上、この座標の値が X、Y ともに一定数以上ないとエラーになりやすいです。つまり、Webブラウザを画面の端に寄せているとエラーになりやすいです。エラーの対応策の一つとして、Webブラウザを画面の色々なところに移動させてみてください。
-  <br><br>
 </div>
 
 <br>
