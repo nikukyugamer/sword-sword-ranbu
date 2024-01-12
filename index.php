@@ -123,7 +123,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   先日のメンテ後に正しく撮影できなくなってしまったという連絡を受けております。現状、手元で再現できておらず、もう少し調べてみます。
   <br><br>
   画面を横に大きく広げた際に現れるサイドバーの影響も考えられますが、こちらも手元で再現できておらず、調査を継続します。
+  <br><br>
+  何か気づいた点があれば引き続きご連絡をお待ちしております。
 </div>
+
+<br>
 
 <div>
   <span style="font-weight: bold;">[2023/07/01]</span>
