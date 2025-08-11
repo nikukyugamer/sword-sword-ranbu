@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: コードをチェックアウトする
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
     - name: Docker Build & Run (Background)
       run: docker compose up -d
     - name: curl で正しいレスポンスが返ってくること
@@ -32,7 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: ソースコードをチェックアウトする
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: GCP の認証を行う
         uses: google-github-actions/auth@v2
         with:
