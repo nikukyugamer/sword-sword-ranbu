@@ -1,4 +1,4 @@
-FROM php:8.4.13-apache
+FROM php:8.5.10-apache
 
 WORKDIR /var/www/html
 COPY . /var/www/html
